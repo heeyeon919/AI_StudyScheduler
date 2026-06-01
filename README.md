@@ -8,6 +8,14 @@ Hybrid AI Personalized Scheduler
 
 [데이터 구조 및 로직 정리_20201012 조희연.pdf](https://github.com/user-attachments/files/28455468/_20201012.pdf)
 
+<br/>
+
+## 🗓️ 코드 통합 (공통 규칙)
+
+- 로직별 파일 분리 <br/>
+- Subject 객체 저장 방식 채택 (객체 기반 구조_<br/>
+- 내부 저장은 원본값 유지, 출력 시에만 반올림 적용  => 계산 오차 최소화<br/><br/>
+
 
 ## 📂 파일 구조
 
