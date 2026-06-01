@@ -31,6 +31,7 @@ Hybrid AI Personalized Scheduler
 │   ├── logic8_daily_schedule.py (일일 학습 스케줄 생성)<br/>
 │   ├── logic9_review.py (복습 추천 여부 판단)<br/>
 │   └── logic10_risk_analysis.py (학습 위험도 분석 및 재스케줄 판단)<br/>
+|<br/>
 └── __pycache__/   ( Python 실행 시 자동 생성)<br/>
 
 ## 🗓️ 로직 실행 흐름
